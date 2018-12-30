@@ -1,0 +1,10 @@
+
+[class *= col-]{background-color: #eee;border: 1px solid #ccc; height:25px;}
+.rowfirst { height:50px; }
+.nestedrow { background-color: #CFC7D8;border: 1px solid #0000FF; height:25px; }
+
+
+.widgt{ max-width:300px; margin:auto; }
+.btnlogin{ margin-top:10px;}
+
+
